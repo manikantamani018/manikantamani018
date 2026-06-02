@@ -75,8 +75,8 @@
 
 ## 📫 Connect With Me
 
-* LinkedIn: https://linkedin.com/in/manikanta
-* GitHub: https://github.com/manikantamani018
+* LinkedIn: www.linkedin.com/in/pendem-manikanta
+* GitHub: [https://github.com/manikantamani018](https://github.com/manikantamani018)
 * Email: [manikantaleo944@gmail.com](mailto:manikantaleo944@gmail.com)
 
 ⭐ Feel free to explore my repositories and connect with me!
